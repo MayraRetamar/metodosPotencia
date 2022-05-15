@@ -1,0 +1,2 @@
+# metodosPotencia
+Created with CodeSandbox
